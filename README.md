@@ -1,4 +1,4 @@
-Here is a comprehensive, professional description for your **FAQproject** repository. You can copy and paste this directly into a **README.md** file on GitHub to make your project look highly professional to professors, teammates, or interviewers.
+
 # IIT Ropar FAQ Search System
 A robust, semantic FAQ search system tailored for the IIT Ropar dataset. This project leverages state-of-the-art Natural Language Processing (NLP) to match user queries with official FAQs, ensuring highly accurate and context-aware responses rather than simple keyword matching. It features a secure user authentication layer and an intuitive web interface.
 ## 🚀 Features
